@@ -1,0 +1,36 @@
+.section6{
+    /* width: 1220px; */
+    height: 200px;
+    background: #f0aeae;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    gap: 3.5%;
+    margin-top: 30px;
+}
+
+.section6_span{
+    width: 30%;
+    height: 100%;
+    background-color: aqua;
+    border-radius: 7px;
+    position: relative;;
+}
+
+@media (max-width: 1100px){
+    .section6{
+        height: 140px;
+    }
+}
+
+@media (max-width: 700px){
+    .section6{
+        height: 100px;
+    }
+}
+
+@media (max-width: 520px){
+    .section6{
+        height: 70px;
+    }
+}

@@ -1,0 +1,22 @@
+.header1{
+    width: 1230px;
+    height: 40px;
+    background: #edd2d2;
+    border-bottom: 4px solid #034C3C;
+    display:flex;
+    align-items: center;
+
+}
+
+.header1_socials{
+    width: 300px;
+    height: 25px;
+    background-color: rgb(126, 93, 53);
+    /* position:relative;
+
+    top: 7px;
+    left: 5px; */
+    margin-left: 10px;
+}
+
+

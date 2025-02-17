@@ -1,0 +1,22 @@
+.section3{
+    /* width: 1220px; */
+    height: 220px;
+    background: #edd2d2;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    margin-top: 30px;
+}
+
+.section3_aricle1{
+    height: 100%;
+    width: 600px;
+    background-color: aqua;
+}
+
+.section3_aricle2{
+    height: 100%;
+    width: 600px;
+    background-color: rgb(15, 12, 25);
+}

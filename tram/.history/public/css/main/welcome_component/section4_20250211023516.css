@@ -1,0 +1,15 @@
+.section4{
+    /* width: 1220px; */
+    height: 450px;
+    background: #a99494;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.section4_videos{
+    height: 100%;
+    width: 30%;
+    background-color: #5f3434;
+}

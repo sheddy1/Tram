@@ -1,0 +1,29 @@
+.section5{
+    /* width: 1220px; */
+    height: 300px;
+    background: #f0aeae;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50%;
+    margin-top: 30px;
+}
+
+.section5_span1{
+    width: 40%;
+    height: 100%;;
+    background-color: aqua;
+}
+
+.section5_span2{
+    width: 25%;
+    height: 100%;
+    background-color: aqua;
+}
+
+.section5_span3{
+    width: 25%;
+    height: 100%;
+    background-color: aqua;
+}
+

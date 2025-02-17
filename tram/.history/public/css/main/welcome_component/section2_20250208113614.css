@@ -1,0 +1,31 @@
+.section2{
+    width: 1220px;
+    height: 450px;
+    background: #edd2d2;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.videos{
+    width: 800px;
+    height: 100%;
+    background-color: aqua;
+}
+
+.articles{
+    width: 400px;
+    height: 100%;
+    background-color: aqua;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.article1{
+    width: 100%;;
+    height: 3200px;
+    background-color: blue;
+}

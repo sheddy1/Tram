@@ -1,0 +1,10 @@
+.section4{
+    /* width: 1220px; */
+    height: 220px;
+    /* background: #edd2d2; */
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    gap: 110px;
+    margin-top: 30px;
+}

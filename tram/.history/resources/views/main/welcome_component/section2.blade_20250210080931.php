@@ -1,0 +1,33 @@
+@section('section2')
+
+<div class="section2">
+    <span class="videos">
+        <swiper-container class="mySwiper" navigation="true" loop="true" navigation="true" space-between="0" autoplay="true">
+            <swiper-slide><img src="{{ asset('images/images/news1.jpg') }}" alt="search" class="header2_search_btn1"></swiper-slide>
+            <swiper-slide>Slide 2</swiper-slide>
+            <swiper-slide>Slide 3</swiper-slide>
+            <swiper-slide>Slide 4</swiper-slide>
+            <swiper-slide>Slide 5</swiper-slide>
+            <swiper-slide>Slide 6</swiper-slide>
+            <swiper-slide>Slide 7</swiper-slide>
+            <swiper-slide>Slide 8</swiper-slide>
+            <swiper-slide>Slide 9</swiper-slide>
+          </swiper-container>
+    </span>
+
+    <span class="articles">
+        <span class="article1"></span>
+
+        <span class="article2"></span>
+    </span>
+
+
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-element-bundle.min.js"></script>
+
+<script>
+
+</script>
+
+@endsection

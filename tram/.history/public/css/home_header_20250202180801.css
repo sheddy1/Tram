@@ -1,0 +1,234 @@
+.header1{
+    /* width: 1230px; */
+    height: 40px;
+    background: #edd2d2;
+    border-bottom: 4px solid #034C3C;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    gap: 160px;
+}
+
+.a_general{
+    text-decoration: none;
+}
+
+.header1_socials{
+    width: 300px;
+    height: 25px;
+    background-color: rgb(126, 93, 53);
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    gap: 35px;
+
+}
+
+.header_socials_facebook{
+    height: 23px;
+    width: 30px;
+}
+
+.header_socials_youtube{
+    height: 30px;
+    width: 30px;
+}
+
+.header1_logo{
+    width: 300px;
+    height: 25px;
+    background-color: rgb(126, 93, 53);
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.header1_logo_img{
+    height: 23px;
+}
+
+.header1_logo_text{
+font-family: 'Helvetica';
+font-style: normal;
+font-weight: 700;
+font-size: 22.3px;
+
+color: #EC3237;
+}
+
+.live{
+    width: 300px;
+    height: 25px;
+    display:flex;
+    justify-content:end;
+    align-items: center;
+    gap: 35px;
+    background-color: rgb(126, 93, 53);;
+}
+
+.live_tv{
+    height: 100%;
+    width: 70px;
+    background-color: aqua;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.livetv_text{
+font-family: 'Helvetica';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 28px;
+
+color: #034C3C;
+}
+
+.livetv_dot{
+    width: 10px;
+    height: 10px;
+}
+
+
+/*responsive design code header1*/
+
+@media (max-width: 1240px) {
+    .header1{
+        /* width: 1150px; */
+        gap: 130px;
+    }
+}
+
+@media (max-width: 1190px) {
+    .header1{
+        /* width: 1150px; */
+        gap: 80px;
+    }
+}
+
+@media (max-width: 1100px) {
+    .header1{
+        /* width: 1150px; */
+        gap: 160px;
+    }
+
+    .header1_socials{
+        width: 200px;
+        gap: 25px;
+    }
+
+    .header_socials_facebook{
+        height: 15px;
+        width: 15px;
+    }
+
+    .header_socials_youtube{
+        height: 15px;
+        width: 15px;
+    }
+
+    .header1_logo{
+        width: 200px;
+    }
+
+    .header1_logo_img{
+        height: 15px;
+    }
+
+    .header1_logo_text{
+        font-size: 14px;
+    }
+
+    .live{
+        width: 180px;
+    }
+
+    .livetv_text{
+        font-size: 9px;
+    }
+
+    .livetv_dot{
+        width: 7px;
+        height: 7px;
+    }
+    }
+
+    @media (max-width: 950px) {
+        .header1{
+            /* width: 1150px; */
+            gap: 130px;
+        }
+    }
+
+    @media (max-width: 900px) {
+        .header1{
+            /* width: 1150px; */
+            gap: 100px;
+        }
+    }
+
+    @media (max-width: 825px) {
+        .header1{
+            /* width: 1150px; */
+            gap: 70px;
+        }
+    }
+
+    @media (max-width: 750px) {
+        .header1{
+            /* width: 1150px; */
+            gap: 40px;
+        }
+    }
+
+    @media (max-width: 700px) {
+        .header1{
+            /* width: 1150px; */
+            gap: 40px;
+        }
+
+        .header1_socials{
+            width: 100px;
+            gap: 10px;
+        }
+
+        .header_socials_facebook{
+            height: 8px;
+            width: 8px;
+        }
+
+        .header_socials_youtube{
+            height: 8px;
+            width: 8px;
+        }
+
+        .header1_logo{
+            width: 100px;
+        }
+
+        .header1_logo_img{
+            height: 7px;
+        }
+
+        .header1_logo_text{
+            font-size: 14px;
+        }
+
+        .live{
+            width: 180px;
+        }
+
+        .livetv_text{
+            font-size: 9px;
+        }
+
+        .livetv_dot{
+            width: 7px;
+            height: 7px;
+        }
+    }
+
+/*end responsive design code header1*/

@@ -1,0 +1,10 @@
+.section5{
+    width: 400px;
+    height: 100%;
+    /* background-color: aqua; */
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}

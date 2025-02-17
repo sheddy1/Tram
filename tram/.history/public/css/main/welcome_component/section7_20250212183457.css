@@ -1,0 +1,23 @@
+.section7   {
+    /* width: 1220px; */
+    height: 350px;
+    background: #edd2d2;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    margin-top: 30px;
+    border-radius: 7px;
+}
+
+@media (max-width: 580px){
+    .section7   {
+        height: 250px;
+    }
+}
+
+@media (max-width: 420px){
+    .section7   {
+        height: 20px;
+    }
+}

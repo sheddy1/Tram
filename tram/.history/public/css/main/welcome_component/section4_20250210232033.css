@@ -1,0 +1,9 @@
+.section4{
+    /* width: 1220px; */
+    height: 450px;
+    background: #5f3434;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
