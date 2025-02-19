@@ -1,0 +1,10 @@
+.videoMain{
+    /* width: 1220px; */
+    height: 200px;
+    background: #edd2d2;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    margin-top: 30px;
+}

@@ -1,0 +1,14 @@
+.videoMain{
+    /* width: 1220px; */
+    height: 300px;
+    background: #edd2d2;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10%;
+    margin-top: 40px;
+}
+
+
+
+

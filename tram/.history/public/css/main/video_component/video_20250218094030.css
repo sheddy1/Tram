@@ -1,0 +1,22 @@
+.video{
+    /* width: 1220px; */
+    height: 450px;
+    background: #edd2d2;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    border-radius: 7px;
+    position: relative;
+}
+
+.video_image{
+    width: 100%;
+    height: 100%;
+}
+
+.video_span{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
