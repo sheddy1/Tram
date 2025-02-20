@@ -1,0 +1,22 @@
+.news_section1{
+    /* width: 1220px; */
+    height: 950px;
+    background: #edd2d2;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10%;
+    margin-top: 30px;
+}
+
+.news_section1_span1{
+    height: 100%;
+    width: 25%;
+    background-color: aquamarine;
+}
+
+.news_section1_span2{
+    height: 100%;
+    width: 70%;
+    background-color: aquamarine;
+}
